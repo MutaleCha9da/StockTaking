@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "441598267196",
+    "firebase_url": "https://mps-agropay-stock-taking.firebaseio.com",
+    "project_id": "mps-agropay-stock-taking",
+    "storage_bucket": "mps-agropay-stock-taking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441598267196:android:e164c6bdd4fd2022",
+        "android_client_info": {
+          "package_name": "com.ads.agropay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441598267196-p3f0npsh8ru591ind71ta4tsqrn3n96t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ads.agropay",
+            "certificate_hash": "d0c89a6d1e9775b9467f063f5f896d99d63a7777"
+          }
+        },
+        {
+          "client_id": "441598267196-2oursdsfq23nh1t9bah84ce9vnb4cj3l.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "441598267196-2oursdsfq23nh1t9bah84ce9vnb4cj3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW69lbG0rsmwO54HKf0JeGXy_FL6G5Vh0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441598267196-2oursdsfq23nh1t9bah84ce9vnb4cj3l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
