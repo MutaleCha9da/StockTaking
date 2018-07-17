@@ -28,7 +28,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".MainActivity" />
-        <activity android:name=".StocktakingActivity"></activity>
+        <activity android:name=".StocktakingActivity" />
+        <activity android:name=".LocationActivity"></activity>
     </application>
 
 </manifest>
